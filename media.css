@@ -1,0 +1,43 @@
+/* humbuger nav*/
+@media screen and (max-width:1000px) {
+    #section-div {
+        height: 83hv;
+        margin-bottom: 6rem;
+        .section2 {
+            flex-wrap: wrap;
+        }
+        #projects {
+        }
+        body {
+            display: block;
+        }
+        .div23 {
+            display: block;
+        }
+    }
+    
+}
+@media screen and (max:1400px) {
+  section {
+    margin: 0 5%;
+    height: fit-content;
+  }
+  #section-div,
+  .image,
+  .section-text {
+    display: block;
+    
+  }
+  .section2 {
+    flex-wrap: wrap;
+  }
+  #expirence {
+    padding-top: 100%;
+  }
+  #about {
+    height: fit-content;
+    display: block;
+  }
+}
+
+
